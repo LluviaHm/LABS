@@ -1,0 +1,102 @@
+
+
+
+#izquierda{
+    float: left;
+    background: #218ef3; 
+    padding-right: 30px;
+    margin-left: 1rem;
+    margin-right: 10rem;
+    text-align: center;
+    border: solid 2px #181717;
+    
+    
+}
+#derecha{
+    float: right;
+    padding-left: 20rem;
+    margin-left: 0%;
+    margin-right: 2rem;
+    padding-right: 2rem;
+    margin-top: 1rem;
+
+}
+
+#mainderecha{
+    text-align: justify;
+}
+#buscar{
+    height: 10%;
+    width: 10%;
+    
+}
+
+#personas{
+    height: 3rem;
+    width: 3rem;
+}
+
+#pensamiento{
+    height: 5%;
+    width: 5%;
+}
+
+#logo-labs{
+
+    align-content: center;
+    border: solid 3px #278bb0;
+    transition:all .5s ease-in-out;
+}
+    
+#logo-labs{
+    height: 200px;
+    width: 300px;
+    margin: 15px 0;
+    -webkit-transition: all 2s ease;
+    -moz-transition: all 2s ease;
+    -o-transition: all 2s ease;
+}
+
+#logo-labs:hover {
+    height: 133px;
+    width: 400px;
+    margin-left: -50px;
+}
+
+
+#footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 2rem;
+    background: #278bb0;
+   
+
+    
+}
+nav{
+    background: #278bb0;
+    margin: auto;
+}
+
+
+
+.abajo{
+    color: #fff;
+    width: 100%;
+}
+
+.abajo a{
+    text-align: center;
+    margin-right: .5rem;
+    margin-left: .5rem;
+}
+
+#quienes{
+    text-align: center;
+  
+}
+
+
+
+
