@@ -1,4 +1,6 @@
-
+#derecha{
+    font-family: Vegur, 'PT Sans', Verdana, sans-serif;
+}
 
 
 #izquierda{
@@ -19,12 +21,10 @@
     margin-right: 2rem;
     padding-right: 2rem;
     margin-top: 1rem;
-
-}
-
-#mainderecha{
     text-align: justify;
+
 }
+    
 #buscar{
     height: 10%;
     width: 10%;
@@ -92,10 +92,7 @@ nav{
     margin-left: .5rem;
 }
 
-#quienes{
-    text-align: center;
-  
-}
+
 
 
 
