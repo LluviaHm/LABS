@@ -1,0 +1,36 @@
+#Logo{
+   height: 13rem;
+    
+}
+
+.Section-Top{
+    display: flex; 
+    justify-content: center;
+    
+}
+
+#cuadro a{
+    color: white;
+    text-decoration: none;
+}
+
+#section1{
+    height: 28rem;
+}
+
+
+.section-left{
+    background-color: black;
+    float: left;
+    width: 30%;
+    height: 100%;
+    opacity: .6;
+    text-align: center;
+}
+
+.section-right{
+    float: right;
+    width: 70%;
+    height: 100%;
+    
+}
